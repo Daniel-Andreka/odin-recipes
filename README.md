@@ -2,7 +2,7 @@
 
 My name is Daniel. 
 
-I would like to change carrier, and that's why 
+I would like to change careers, and that's why 
 I started the odin project.
 
 **In this project** I tried to do a simple webpage 
@@ -17,6 +17,6 @@ After finishing with the html files, I added style
 to the pages. I don't think I have a good taste for 
 design, but I like the end result.
 
-**During this project**, I used *html*, *css* and *git* .
+**During this project** I used *html*, *css* and *git* .
 
 I wish luck to everyone who's doing the odin project.
