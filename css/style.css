@@ -1,0 +1,56 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #f6efe7;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-bottom: 70px;
+}
+
+h1 {
+    text-align: center;
+    margin-bottom: 40px;
+}
+
+h2, h3, h4 {
+    margin-bottom: 15px;
+    margin-top: 25px;
+}
+
+h1, h2, h3, h4 {
+    font-family: "Comic Sans MS", cursive;
+}
+
+img {
+    border-radius: 5px;
+    display: block;
+    margin: 0 auto;
+}
+
+p, li {
+    line-height: 1.6;
+}
+
+ul > li > a{
+    color: #000;
+}
+
+ul, ol {
+    list-style-position: inside;
+}
+
+ol > li {
+    margin-bottom: 12px;
+}
+
+ol > li::marker {
+    font-weight: bold;
+}
+
+.container {
+    width: 400px;
+    margin: 0 auto;
+}
