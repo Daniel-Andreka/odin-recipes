@@ -2,9 +2,6 @@
 
 My name is Daniel. 
 
-I would like to change careers, and that's why 
-I started the odin project.
-
 **In this project** I tried to do a simple webpage 
 that has some delicious recipes on it.
 
